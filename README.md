@@ -2,4 +2,7 @@
 an awesome list of zeronet sites
 --------
 
-http://127.0.0.1:43110/Sites.ZeroNetwork.bit/
+| Link | Name | Description |
+|:--- | :---: | :--- |
+| http://127.0.0.1:43110/kaffiene.bit | Kaffine Search | Search Engine |
+
