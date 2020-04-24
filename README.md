@@ -14,4 +14,7 @@ an awesome list of zeronet sites
 | http://127.0.0.1:43110/Sites.ZeroNetwork.bit/ | Zero Sites | index of zerosites |
 | http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/ | Play | Download movie |
 | http://127.0.0.1:43110/16Go5kc2U9Ff4jeaY8kYiDEgpMYdgyboPY/ | Linux.net | Linux froum |
-
+| http://127.0.0.1:43110/Mail.ZeroNetwork.bit/ | Zero Mail | Zeronet Mail Service |
+| http://127.0.0.1:43110/1uPDaT3uSyWAPdCv1WkMb5hBQjWSNNACf/ | Zero Updater | Update Zeronet |
+| http://127.0.0.1:43110/0board.bit/ | Zero board | reddit like zeronet froum |
+| http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/ | Zero Name | register domain |
