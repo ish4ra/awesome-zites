@@ -18,5 +18,5 @@ an awesome list of zeronet sites
 | http://127.0.0.1:43110/1uPDaT3uSyWAPdCv1WkMb5hBQjWSNNACf/ | Zero Updater | Update Zeronet |
 | http://127.0.0.1:43110/0board.bit/ | Zero board | reddit like zeronet froum |
 | http://127.0.0.1:43110/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/ | Zero Name | register domain |
-
-
+| http://127.0.0.1:43110/mail.zeroverse.bit | Zeroverse Mail | Mail service |
+| http://127.0.0.1:43110/Me.ZeroNetwork.bit/ | ZeroMe | Social network for ZeroNet |
