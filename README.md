@@ -4,6 +4,7 @@ an awesome list of zeronet sites
 ****
 # Contents
 * [information](##Info)
+* [social](##Social)
 
 ## Info :closed_book:
 | Link | Name | Description |
