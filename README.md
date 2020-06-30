@@ -3,7 +3,7 @@ an awesome list of zeronet sites
 
 ****
 # Contents
-* [information](#Info)
+* [information](##Info)
 
 ## Info :closed_book:
 | Link | Name | Description |
