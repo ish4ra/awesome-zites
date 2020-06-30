@@ -3,8 +3,19 @@ an awesome list of zeronet sites
 
 ****
 # Contents
-* [information](#Info)
-* [social](#Social)
+* [information :closed_book:](#info-closed_book)
+* [social :couple:](#social-couple)
+* [search :mag_right:](#search-mag_right)
+* [Videos :tv:](#videos-tv)
+* [Music :headphones:](#music-headphones)
+* [Books :book:](#books-book)
+* [Games :basketball:](#games-basketball)
+* [Blog :notebook:](#blog-notebook)
+* [Linux :penguin:](#linux-penguin)
+* [Programming :computer:](#programming-computer)
+
+***
+
 
 ## Info :closed_book:
 | Link | Name | Description |
