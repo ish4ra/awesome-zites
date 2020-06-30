@@ -1,6 +1,5 @@
-# awesome-zites
-an awesome list of zeronet sites
-
+# awesome-zites [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+an awesome list of zeronet sites 
 ****
 # Contents
 * [information :closed_book:](#info-closed_book)
